@@ -1,4 +1,4 @@
-# Food-Oroder-management-mini-project
+# Food-Oroder-management-mini-project-using-jsp
 
 ![Screenshot 2021-06-04 at 4 18 17 PM](https://user-images.githubusercontent.com/78723011/120791567-fea23c00-c551-11eb-9db2-91a9308f6b83.png)
 ![Screenshot 2021-06-04 at 4 18 26 PM](https://user-images.githubusercontent.com/78723011/120791617-0cf05800-c552-11eb-90a9-d7223c4de77b.png)
