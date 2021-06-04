@@ -1,11 +1,11 @@
 # Food-Oroder-management-mini-project-using-jsp
 
-1.install apache tomcat (the latest version) on your system.
-2.create a folder name as tomcat and put installed apache in this folder which should be like(apache-tomcat-10.0.5)
-3.then open tomcat folder like this tomcat->apache-tomcat-10.0.5->webapps
-4.create a folder name as jsp under webapps folder after it open jsp folder 
-5.create a folder name as restaurent(this is your project name you can change it)
-6.open restaurent folder and put all jsp codes under it (exension should be .jsp)
+###1.install apache tomcat (the latest version) on your system.
+###2.create a folder name as tomcat and put installed apache in this folder which should be like(apache-tomcat-10.0.5)
+###3.then open tomcat folder like this tomcat->apache-tomcat-10.0.5->webapps
+###4.create a folder name as jsp under webapps folder after it open jsp folder 
+###5.create a folder name as restaurent(this is your project name you can change it)
+###6.open restaurent folder and put all jsp codes under it (exension should be .jsp)
 
 
 
