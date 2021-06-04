@@ -7,6 +7,11 @@
 ### 5.create a folder name as restaurent(this is your project name you can change it)
 ### 6.open restaurent folder and put all jsp codes under it (exension should be .jsp)
 
+### then start tomcat(to start double click windows user)
+### mac user open terminal and write following commands cd tomcat/cd apache-tomcat-10.0.5/cd bin then type ./startup.sh tomcat has beebn started
+
+### then go to the your browser and type in search bar localhost//8080:restaturent/jsp/home.jsp( it is your homepage name with extension it may be different)
+
 
 
 
