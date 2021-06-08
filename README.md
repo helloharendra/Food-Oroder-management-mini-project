@@ -1,4 +1,4 @@
-# Food-Oroder-management-mini-project-using-jsp
+# Food Oroder management jsp mini project using jsp
 
 ### 1.install apache tomcat (the latest version) on your system.
 ### 2.create a folder name as tomcat and put installed apache in this folder which should be like(apache-tomcat-10.0.5)
