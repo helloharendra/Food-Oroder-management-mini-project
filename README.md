@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### then go to the your browser and type in search bar localhost//8080:restaturent/jsp/home.jsp( it is your homepage name with extension it may be different)
 
-
+## output 
 
 
 ![Screenshot 2021-06-04 at 4 18 17 PM](https://user-images.githubusercontent.com/78723011/120791567-fea23c00-c551-11eb-9db2-91a9308f6b83.png)
